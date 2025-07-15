@@ -464,7 +464,22 @@ nav h3{
     transition: all ease 0.4s;
 }
 
-
+#hero-black{
+    position: absolute;
+    background-color: black;
+    scale: 3;
+    height: 50vh;
+    width: 50vh;
+    rotate: -120deg;
+    z-index: -1;
+    filter: blur(20px);
+    animation-name: gooy;
+    animation-duration: 4s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    left: 35%;
+    bottom: -60%;
+}
 
 
 
