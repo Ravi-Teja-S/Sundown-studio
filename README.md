@@ -1,4 +1,3 @@
-# Sundown-studio
 # Sundown Studio – Website Clone
 
 This project is a frontend clone of the visually compelling **Sundown Studio** website. It replicates the smooth animations, interactive scroll effects, and elegant layout that made the original site stand out.
