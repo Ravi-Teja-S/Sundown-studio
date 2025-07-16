@@ -11,7 +11,6 @@ This project is a frontend clone of the visually compelling **Sundown Studio** w
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **GSAP (GreenSock Animation Platform)** – for smooth entrance animations and scroll triggers.
 - **Locomotive Scroll** – for smooth scrolling and parallax effects.
 - **Swiper.js** – for the image slider/carousel on the website.
 
