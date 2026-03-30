@@ -25,10 +25,10 @@ pipeline{
 
   post{
     success{
-      bat 'echo "BUILD SUCCESSFUL" '
+      sh 'echo "BUILD SUCCESSFUL" '
     }
     failure{
-      bat 'echo "BUILD FAILED" '
+      sh 'echo "BUILD FAILED" '
   }
 }
 }
