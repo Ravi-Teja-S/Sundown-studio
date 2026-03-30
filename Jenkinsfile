@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage('checkout'){
       steps{
-        git 'https://github.com/Ravi-Teja-S/Sundown-studio/'
+        git branch:'main' ,url:'https://github.com/Ravi-Teja-S/Sundown-studio/'
       }
     }
     stage('build'){
