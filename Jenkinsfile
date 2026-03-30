@@ -31,3 +31,4 @@ pipeline{
       bat 'echo "BUILD FAILED" '
   }
 }
+}
