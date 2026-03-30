@@ -13,7 +13,7 @@ This project is a frontend clone of the visually compelling **Sundown Studio** w
 - **JavaScript**
 - **Locomotive Scroll** – for smooth scrolling and parallax effects.
 - **Swiper.js** – for the image slider/carousel on the website.
-- **Jenkins** -for continuous deployment.
+- **Jenkins** -for continuous deployment...
 ## 📝 Project Description
 
 This is a frontend-only implementation of the award-winning Sundown Studio website. It showcases:
